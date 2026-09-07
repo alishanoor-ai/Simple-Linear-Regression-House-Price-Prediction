@@ -51,9 +51,9 @@ The model learns how house price changes according to house size and uses this r
 
 ## 📈 Visualization
 
-A scatter plot and regression line are used to visualize the relationship between:
+The scatter plot and regression line show the relationship between house size and house price.
 
-**House Size ↔ House Price**
+![Linear Regression Graph](linear_regression_graph.png)
 
 ## 🔮 Prediction
 
